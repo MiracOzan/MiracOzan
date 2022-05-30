@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi, I'm a college student trying to become a full stack software developer by improving myself.
+
 <!--
 **MiracOzan/MiracOzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
