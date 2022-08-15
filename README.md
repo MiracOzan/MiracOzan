@@ -5,8 +5,6 @@ Hi, I'm a college student trying to become a full stack software developer by im
 <h1 align="center">Hi 👋, I'm Miraç Ozan T.</h1>
 <h3 align="center">A passionate BackEnd developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miracozan" alt="miracozan" /></a> </p>
-
 - 🌱 I’m currently learning **Entity Framework and Multi-tier layered arthitecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MiracOzan](https://github.com/MiracOzan)
