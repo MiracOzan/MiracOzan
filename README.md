@@ -1,3 +1,5 @@
+<img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right"/>
+
 ### Hi there 👋
 
 Hi, I'm a college student trying to become a full stack software developer by improving myself.
@@ -5,6 +7,7 @@ Hi, I'm a college student trying to become a full stack software developer by im
 - 🌱 I’m currently learning **Entity Framework and Multi-tier layered arthitecture**
 
 - 👨‍💻 All of my projects are available at ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ## 💬 Social
