@@ -13,10 +13,8 @@ Hi, I'm a college student trying to become a full stack software developer by im
 
 - ⚡ Fun fact **I think I'm Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/miracozan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/miracozan/" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/miracozan/" target="_blank" rel="nofollow"><img alt="Miraç's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:m.ozan.tosun@gmail.com" target="_blank" rel="nofollow"><img alt="Miraç's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ## 🛠 Technologies & Tools 
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /></img>
