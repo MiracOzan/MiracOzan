@@ -50,6 +50,6 @@ Hi, I'm a college student trying to become a full stack software developer by im
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miracozan&show_icons=true&locale=en&layout=compact" alt="miracozan" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracOzan&langs_count=8)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miracozan&show_icons=true&locale=en" alt="miracozan" /></p>
