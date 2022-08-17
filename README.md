@@ -51,5 +51,3 @@ Hi, I'm a college student trying to become a full stack software developer by im
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiracOzan&langs_count=8)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miracozan&show_icons=true&locale=en" alt="miracozan" /></p>
